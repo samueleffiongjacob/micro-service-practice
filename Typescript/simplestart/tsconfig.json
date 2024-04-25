@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "target": "es2018", // or later version
+      "module": "commonjs",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true // This might help to skip type checking of declaration files
+    }
+  }
+  
